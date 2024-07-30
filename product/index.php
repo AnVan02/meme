@@ -66,4 +66,3 @@ include 'dbconnect.php';
     ?>
     
 <script type="project.js"></script>
-
